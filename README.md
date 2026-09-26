@@ -45,11 +45,7 @@ I build reliable products end to end, with a strong bias for maintainable system
 - 🇬🇧 **English** · ![Intermediate](https://img.shields.io/badge/-Intermediate-f7c948?style=flat-square)
 - 🇫🇷 **French** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
 
-### GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=linuxlts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="hjcs stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linuxlts&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="hjcs top languages"/>
 
 </div>
 
